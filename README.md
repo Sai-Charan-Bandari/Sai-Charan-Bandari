@@ -1,4 +1,4 @@
-### Hi there 👋
+## This is BSC here 👋
 
 <!--
 **Sai-Charan-Bandari/Sai-Charan-Bandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
