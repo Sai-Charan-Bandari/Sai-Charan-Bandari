@@ -1,4 +1,6 @@
-## This is BSC here 👋
+## Hi.This is BSC here 👋
+### Aspiring Web Developer | Passionate in Web Development | Dedicated to Growth
+### Highly motivated and enthusiastic B.Tech graduate with a strong educational background and a passion for Web development. Have good knowledge in React Js. Interested in Web and App development. Seeking an entry-level position to apply and further develop my skills in a dynamic and challenging work environment.
 
 <!--
 **Sai-Charan-Bandari/Sai-Charan-Bandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
